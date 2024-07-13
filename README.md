@@ -3,7 +3,6 @@
 This repository contains a Python-based chatbot implementation. The chatbot leverages Natural Language Processing (NLP) techniques and machine learning models to provide a conversational interface. The project uses a Keras model trained on a set of intents and responses defined in a JSON file to understand and respond to user inputs.
 
 ## Files and Directories
-
 - `chatbot_model.h5`: The trained Keras model's weights.
 - `chatbot_model.json`: The architecture of the Keras model.
 - `chatgui.py`: The main script to launch the chatbot GUI using Tkinter.
